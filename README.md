@@ -1,19 +1,15 @@
-## Hi there 👋
-
 # Hi, I'm Prerna! 👋 
 
-### AI Product Manager | Human-Centric AI Enthusiast
+### AI Product Management | Strategist driving B2B SaaS & Martech Innovation (CRM/CX) | CCaaS
 
-I am a Product Manager moving from [Insert Your Current/Previous Industry] into the AI space. I specialize in bridging the gap between complex machine learning capabilities and meaningful user experiences. 
+I am a currently learning and building using AI. I specialize in bridging the gap between complex machine learning capabilities and meaningful user experiences. 
 
-While I come from a non-technical background, I am a firm believer in "Building to Understand." I am currently hands-on with LLMs, prompt engineering, and AI orchestration tools to better collaborate with engineering teams.
+🚀 While I come from a non-technical background, I am a firm believer in "Building to Understand." I am currently hands-on with LLMs, prompt engineering, and AI orchestration tools to better collaborate with engineering teams.
 
 ---
-🚀 Current Focus: Learning to build with LLMs, prompt engineering, and understanding AI model lifecycles.
-
 💡 My Philosophy: AI should solve real user pain points, not just exist for the sake of tech.
 
-🧠 Learning Path: Currently diving deep into [mention a specific tool like LangChain, OpenAI API, or No-code AI tools]
+🧠 Learning Path: Currently diving deep into building fully functional AI products uding no-code low-code tools
 --------
 
 ### 🚀 What I'm Building & Learning
@@ -29,14 +25,13 @@ While I come from a non-technical background, I am a firm believer in "Building 
 ---
 
 ### 📁 Featured Work (from my Portfolio)
-* [**Project Name 1**](YOUR_REPO_LINK): A comprehensive PRD for an AI-powered [Industry] solution.
-* [**Project Name 2**](YOUR_REPO_LINK): An experiment in Prompt Engineering for [Specific Use Case].
-* [**AI Resource Hub**](YOUR_REPO_LINK): A curated collection of my research on AI Product Management.
+* [**PrompOS**]: An idea-to-expert prompt generator
+* [**Hiremate**]: AI for hiring manager- automatically creates job description in detail, creates evaluation criteria, review's candidate resume, conducts an interview with candidate, shares the results
 
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](YOUR_LINK)
+- 💼 [LinkedIn]([YOUR_LINK](https://www.linkedin.com/in/prernaaagarwal/))
 - 🌐 [My Full Portfolio](https://ossified-stallion-5ac.notion.site/Prerna-s-Portfolio-2388bb0c951681e18346fd7876acfed9?pvs=73)
 
 *"The best AI products are defined by the questions we ask, not just the code we write."*
