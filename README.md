@@ -1,6 +1,8 @@
 # Hi, I'm Prerna! 👋 
 
-### AI Product Management | Strategist driving B2B SaaS & Martech Innovation (CRM/CX) | CCaaS
+### **Product Management | AI Implementation and Adoption | Strategist driving B2B SaaS & Martech Innovation (CRM/CX) | Digital transformation**
+
+A Generalist with 9+ years of experience in **Digital** Transformation and Software Development, with a strong foundation in Product Management principles. Proven track record in leading multiple critical projects and collaborating with cross-functional teams to strategise, develop, manage, and deliver user-centric projects.
 
 I am a currently learning and building using AI. I specialize in bridging the gap between complex machine learning capabilities and meaningful user experiences. 
 
@@ -34,6 +36,7 @@ I am a currently learning and building using AI. I specialize in bridging the ga
 - 💼 [LinkedIn](https://www.linkedin.com/in/prernaaagarwal/)
 - 🌐 [My Full Portfolio](https://ossified-stallion-5ac.notion.site/Prerna-s-Portfolio-2388bb0c951681e18346fd7876acfed9?pvs=73)
 
+Open to global opportunities (AI product, AI ops, product ops, platform, B2B SaaS)
 *"The best AI products are defined by the questions we ask, not just the code we write."*
 
 <!--
