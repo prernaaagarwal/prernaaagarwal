@@ -9,6 +9,12 @@ I am a Product Manager moving from [Insert Your Current/Previous Industry] into 
 While I come from a non-technical background, I am a firm believer in "Building to Understand." I am currently hands-on with LLMs, prompt engineering, and AI orchestration tools to better collaborate with engineering teams.
 
 ---
+🚀 Current Focus: Learning to build with LLMs, prompt engineering, and understanding AI model lifecycles.
+
+💡 My Philosophy: AI should solve real user pain points, not just exist for the sake of tech.
+
+🧠 Learning Path: Currently diving deep into [mention a specific tool like LangChain, OpenAI API, or No-code AI tools]
+--------
 
 ### 🚀 What I'm Building & Learning
 - 🤖 **Current Focus:** Masterng the "Product-AI Fit"—identifying where AI adds real value vs. where it’s just hype.
