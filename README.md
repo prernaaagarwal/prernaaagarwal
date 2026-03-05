@@ -31,7 +31,7 @@ I am a currently learning and building using AI. I specialize in bridging the ga
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn]([YOUR_LINK](https://www.linkedin.com/in/prernaaagarwal/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/prernaaagarwal/])
 - 🌐 [My Full Portfolio](https://ossified-stallion-5ac.notion.site/Prerna-s-Portfolio-2388bb0c951681e18346fd7876acfed9?pvs=73)
 
 *"The best AI products are defined by the questions we ask, not just the code we write."*
