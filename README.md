@@ -4,8 +4,6 @@
 
 # Building AI Products That Actually Work
 
-I design and build AI systems where model capability meets real-world constraints.
-
 My focus is simple:
 → Identify where AI creates real leverage (not hype)  
 → Turn that into usable, scalable products  
@@ -53,23 +51,6 @@ I’m actively building and testing AI systems to understand:
 **Outcome:**
 - Reduced prompt iteration time  
 - Improved output reliability across use cases  
-
----
-
-### Hiremate — AI Hiring Assistant  
-**Problem:** Hiring workflows are fragmented and time-intensive  
-
-**Approach:**
-- Built an end-to-end AI workflow:
-  JD creation → evaluation criteria → resume review → interview → summary  
-
-**Key Decisions:**
-- Balanced automation with human oversight  
-- Structured outputs for decision-making (not just generation)  
-
-**Outcome:**
-- Streamlined hiring workflows  
-- Reduced manual effort in early-stage screening  
 
 ---
 
