@@ -1,8 +1,6 @@
 # Hi, I'm Prerna! 👋 
 
-## **Product Management | AI Implementation and Adoption | Strategist driving B2B SaaS & Martech Innovation (CRM/CX) | Digital transformation**
-
-### With 9+ years in digital transformation and product environments, learning and building AI products that Actually work, in public
+## **Product Manager, 9+ years in B2B SaaS and CRM/CX. Now learning and building AI products that Actually work, in public. Writing about AI product decisions at /ai-product-notes.**
 
 My focus is simple:
 → Identify where AI creates real leverage (not hype)  
@@ -17,13 +15,7 @@ My focus is simple:
 - Focus on failure modes, not just success cases  
 - Treat prompts and workflows as systems, not one-off inputs
 
-### 🧰 AI + Product Toolkit
-
-**Product** : Problem framing  | User research  | PRDs for AI systems  | Roadmapping under uncertainty  
-**AI** : Prompt design & evaluation  | RAG systems  | Token & cost optimization  | AI workflow orchestration  
-**Tech (Hands-on)** : Python (learning by building)  | APIs (OpenAI, integrations)  | No-code/low-code tools (Make, Zapier)  
-
-## 🚀 Featured Work
+## 🚀 Currently Building
 
 - [Sakhi](https://github.com/prernaaagarwal/Sakhi) → AI voice agent for hotel operations  
 - [PromptOS](https://github.com/prernaaagarwal/PromptOS) → Structured prompt engineering system  
