@@ -2,36 +2,14 @@
 
 ### **Product Management | AI Implementation and Adoption | Strategist driving B2B SaaS & Martech Innovation (CRM/CX) | Digital transformation**
 
-# Building AI Products That Actually Work
+# With 9+ years in digital transformation and product environments, learning nd Building AI Products That Actually Work in public
 
 My focus is simple:
 → Identify where AI creates real leverage (not hype)  
 → Turn that into usable, scalable products  
 
----
-
-## 🧠 What I Do
-
-I operate at the intersection of:
-- Product strategy  
-- AI capabilities (LLMs, RAG, automation)  
-- Real-world business workflows (B2B SaaS, CRM, CX)  
-
-With 9+ years in digital transformation and product environments, I focus on:
-
-- Translating ambiguous problems into AI product opportunities  
-- Defining *Product–AI Fit* (where AI actually adds value)  
-- Designing systems, not just features  
-
----
-
-## ⚙️ Current Focus
-
-I’m actively building and testing AI systems to understand:
-
-- Where LLMs break in real workflows  
-- Tradeoffs between accuracy, latency, and cost  
-- How AI integrates into existing tools (not replaces them)
+- Product strategy  |  AI capabilities (LLMs, RAG, automation)  | Real-world business workflows (B2B SaaS, CRM, CX)  
+- Translating ambiguous problems into AI product opportunities  | Defining *Product–AI Fit* (where AI actually adds value)  | Designing systems, not just features  
 
 ---
 
@@ -41,62 +19,36 @@ I’m actively building and testing AI systems to understand:
 **Problem:** Prompting is inconsistent and hard to scale across teams  
 
 **Approach:**
-- Designed a system to generate expert-level prompts from intent  
-- Structured prompts into reusable workflows  
+- Designed a system to generate expert-level prompts from intent, Structured prompts into reusable workflows  
 
 **Key Decisions:**
-- Prioritized consistency over flexibility  
-- Focused on usability for non-technical users  
+- Prioritized consistency over flexibility  , Focused on usability for non-technical users  
 
 **Outcome:**
-- Reduced prompt iteration time  
-- Improved output reliability across use cases  
+- Reduced prompt iteration time  , Improved output reliability across use cases  
 
----
-
-## 🧪 How I Work with AI
-
-I follow a “build to understand” approach:
+## 🧪 How I Work with AI- “build to understand” approach:
 
 - Prototype → test → break → refine  
 - Focus on failure modes, not just success cases  
 - Treat prompts and workflows as systems, not one-off inputs  
 
----
-
 ## 🧰 AI + Product Toolkit
 
 **Product**
-- Problem framing  
-- User research  
-- PRDs for AI systems  
-- Roadmapping under uncertainty  
+- Problem framing  | User research  | PRDs for AI systems  | Roadmapping under uncertainty  
 
 **AI**
-- Prompt design & evaluation  
-- RAG systems  
-- Token & cost optimization  
-- AI workflow orchestration  
+- Prompt design & evaluation  | RAG systems  | Token & cost optimization  | AI workflow orchestration  
 
 **Tech (Hands-on)**
-- Python (learning by building)  
-- APIs (OpenAI, integrations)  
-- No-code/low-code tools (Make, Zapier)  
-
----
+- Python (learning by building)  | APIs (OpenAI, integrations)  | No-code/low-code tools (Make, Zapier)  
 
 ## 🧭 What I Care About
 
 - AI should reduce friction, not add novelty  
 - The best systems are invisible to users  
 - Good AI products are defined by decisions, not demos  
-
----
-
-## 📫 Connect
-
-- LinkedIn  
-- Portfolio  
 
 Open to roles in:
 AI Product | AI Ops | Platform | B2B SaaS  
