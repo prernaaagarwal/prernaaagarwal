@@ -25,9 +25,9 @@ My focus is simple:
 
 ## 🚀 Featured Work
 
-- Sakhi → AI voice agent for hotel operations  
-- PromptOS → Structured prompt engineering system  
-- AI Product Thinking → Notes on building AI systems   
+- [Sakhi](https://github.com/prernaaagarwal/Sakhi) → AI voice agent for hotel operations  
+- [PromptOS](https://github.com/prernaaagarwal/PromptOS) → Structured prompt engineering system  
+- [AI Product Notes](https://github.com/prernaaagarwal/ai-product-notes) → Notes on building AI systems   
 
 ### 🧭 What I Care About
 
