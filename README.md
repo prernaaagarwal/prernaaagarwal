@@ -35,5 +35,5 @@ My focus is simple:
 - The best systems are invisible to users  
 - Good AI products are defined by decisions, not demos  
 
-### Open to roles in:
-AI Product | AI Ops | Platform | B2B SaaS  
+### Open to global roles in:
+AI Product | Strategy | Digital Transformation | CRM | B2B SaaS  
