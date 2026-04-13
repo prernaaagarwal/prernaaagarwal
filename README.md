@@ -42,4 +42,4 @@ My focus is simple:
 ![Vapi](https://img.shields.io/badge/Vapi-000000?style=flat&logoColor=white)
 
 ### Open to global roles in:
-AI Product | Strategy | Digital Transformation | CRM | B2B SaaS  
+AI Product | Strategy | Digital Transformation | CRM | CCaaS 
