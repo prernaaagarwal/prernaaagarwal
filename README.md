@@ -2,54 +2,120 @@
 
 ### **Product Management | AI Implementation and Adoption | Strategist driving B2B SaaS & Martech Innovation (CRM/CX) | Digital transformation**
 
-A Generalist with 9+ years of experience in **Digital** Transformation and Software Development, with a strong foundation in Product Management principles. Proven track record in leading multiple critical projects and collaborating with cross-functional teams to strategise, develop, manage, and deliver user-centric projects.
+# Building AI Products That Actually Work
 
-I am a currently learning and building using AI. I specialize in bridging the gap between complex machine learning capabilities and meaningful user experiences. 
+I design and build AI systems where model capability meets real-world constraints.
 
-🚀 While I come from a non-technical background, I am a firm believer in "Building to Understand." I am currently hands-on with LLMs, prompt engineering, and AI orchestration tools to better collaborate with engineering teams.
-
----
-💡 My Philosophy: AI should solve real user pain points, not just exist for the sake of tech.
-
-🧠 Learning Path: Currently diving deep into building fully functional AI products uding no-code low-code tools
---------
-
-### 🚀 What I'm Building & Learning
-- 🤖 **Current Focus:** Masterng the "Product-AI Fit"—identifying where AI adds real value vs. where it’s just hype.
-- 🏗️ **Projects:** I'm using **Python** and **OpenAI APIs** to build internal tools that automate [mention a specific problem you're solving, e.g., 'customer feedback loops'].
-- 📚 **Learning Path:** Deepening my knowledge in **RAG (Retrieval-Augmented Generation)** and **AI Ethics/Safety**.
-
-### 🛠 My "AI PM" Toolkit
-- **Product:** Strategy, User Research, Roadmapping, PRDs for AI Models.
-- **AI Literacy:** Prompt Engineering, Token Optimization, Fine-tuning Logic.
-- **Tech (Learning):** Python, SQL, Postman (APIs), No-code AI (Make/Zapier).
+My focus is simple:
+→ Identify where AI creates real leverage (not hype)  
+→ Turn that into usable, scalable products  
 
 ---
 
-### 📁 Featured Work (from my Portfolio)
-* [**PrompOS**]: An idea-to-expert prompt generator
-* [**Hiremate**]: AI for hiring manager- automatically creates job description in detail, creates evaluation criteria, review's candidate resume, conducts an interview with candidate, shares the results
+## 🧠 What I Do
+
+I operate at the intersection of:
+- Product strategy  
+- AI capabilities (LLMs, RAG, automation)  
+- Real-world business workflows (B2B SaaS, CRM, CX)  
+
+With 9+ years in digital transformation and product environments, I focus on:
+
+- Translating ambiguous problems into AI product opportunities  
+- Defining *Product–AI Fit* (where AI actually adds value)  
+- Designing systems, not just features  
 
 ---
 
-### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/prernaaagarwal/)
-- 🌐 [My Full Portfolio](https://ossified-stallion-5ac.notion.site/Prerna-s-Portfolio-2388bb0c951681e18346fd7876acfed9?pvs=73)
+## ⚙️ Current Focus
 
-Open to global opportunities (AI product, AI ops, product ops, platform, B2B SaaS)
-*"The best AI products are defined by the questions we ask, not just the code we write."*
+I’m actively building and testing AI systems to understand:
 
-<!--
-**prernaaagarwal/prernaaagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Where LLMs break in real workflows  
+- Tradeoffs between accuracy, latency, and cost  
+- How AI integrates into existing tools (not replaces them)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏗️ Selected Work
+
+### PromptOS — Structured Prompt Engineering System  
+**Problem:** Prompting is inconsistent and hard to scale across teams  
+
+**Approach:**
+- Designed a system to generate expert-level prompts from intent  
+- Structured prompts into reusable workflows  
+
+**Key Decisions:**
+- Prioritized consistency over flexibility  
+- Focused on usability for non-technical users  
+
+**Outcome:**
+- Reduced prompt iteration time  
+- Improved output reliability across use cases  
+
+---
+
+### Hiremate — AI Hiring Assistant  
+**Problem:** Hiring workflows are fragmented and time-intensive  
+
+**Approach:**
+- Built an end-to-end AI workflow:
+  JD creation → evaluation criteria → resume review → interview → summary  
+
+**Key Decisions:**
+- Balanced automation with human oversight  
+- Structured outputs for decision-making (not just generation)  
+
+**Outcome:**
+- Streamlined hiring workflows  
+- Reduced manual effort in early-stage screening  
+
+---
+
+## 🧪 How I Work with AI
+
+I follow a “build to understand” approach:
+
+- Prototype → test → break → refine  
+- Focus on failure modes, not just success cases  
+- Treat prompts and workflows as systems, not one-off inputs  
+
+---
+
+## 🧰 AI + Product Toolkit
+
+**Product**
+- Problem framing  
+- User research  
+- PRDs for AI systems  
+- Roadmapping under uncertainty  
+
+**AI**
+- Prompt design & evaluation  
+- RAG systems  
+- Token & cost optimization  
+- AI workflow orchestration  
+
+**Tech (Hands-on)**
+- Python (learning by building)  
+- APIs (OpenAI, integrations)  
+- No-code/low-code tools (Make, Zapier)  
+
+---
+
+## 🧭 What I Care About
+
+- AI should reduce friction, not add novelty  
+- The best systems are invisible to users  
+- Good AI products are defined by decisions, not demos  
+
+---
+
+## 📫 Connect
+
+- LinkedIn  
+- Portfolio  
+
+Open to roles in:
+AI Product | AI Ops | Platform | B2B SaaS  
