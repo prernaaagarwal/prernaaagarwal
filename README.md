@@ -23,13 +23,11 @@ My focus is simple:
 **AI** : Prompt design & evaluation  | RAG systems  | Token & cost optimization  | AI workflow orchestration  
 **Tech (Hands-on)** : Python (learning by building)  | APIs (OpenAI, integrations)  | No-code/low-code tools (Make, Zapier)  
 
-### 🏗️ Selected Work
+## 🚀 Featured Work
 
-#### PromptOS — Structured Prompt Engineering System  
-**Problem:** Prompting is inconsistent and hard to scale across teams  
-**Approach:** : Designed a system to generate expert-level prompts from intent, Structured prompts into reusable workflows  
-**Key Decisions:** : Prioritized consistency over flexibility  , Focused on usability for non-technical users  
-**Outcome:** : Reduced prompt iteration time  , Improved output reliability across use cases  
+- Sakhi → AI voice agent for hotel operations  
+- PromptOS → Structured prompt engineering system  
+- AI Product Thinking → Notes on building AI systems   
 
 ### 🧭 What I Care About
 
