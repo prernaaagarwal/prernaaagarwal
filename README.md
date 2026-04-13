@@ -1,6 +1,6 @@
 # Hi, I'm Prerna! 👋 
 
-## **Product Manager, 9+ years in B2B SaaS and CRM/CX. Now learning and building AI products that Actually work, in public**
+## **Product Manager, 9+ years in B2B SaaS and CRM/CX. Now learning and building AI products that actually work, in public**
 
 My focus is simple:
 → Identify where AI creates real leverage (not hype)  
