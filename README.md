@@ -1,12 +1,12 @@
 # Hi, I'm Prerna! 👋 
 
-## **Product Management, 9+ years in B2B SaaS and CRM/CX. Now learning and building AI products that actually work, in public**
+## **Product Management, B2B SaaS and CRM/CX. Now learning and building AI products that actually work, in public**
 
 My focus is simple:
 → Identify where AI creates real leverage (not hype)  
 → Turn that into usable, scalable products  
 
-- Product strategy  |  AI capabilities (LLMs, RAG, automation)  | Real-world business workflows (B2B SaaS, CRM, CX)  
+- Product strategy  |  AI capabilities (LLMs, RAG, automation)  | Real-world business workflows (B2B SaaS, CRM, CX)  for 9+ years
 - Translating ambiguous problems into AI product opportunities  | Defining *Product–AI Fit* (where AI actually adds value)  | Designing systems, not just features  
 
 ### 🧪 How I Work with AI- “build to understand” approach:
